@@ -51,9 +51,3 @@ reglas de negocio y criterios de aceptacion.
 Dichas pruebas se lanzan de manera automática.
 
 Podrá encontar el detalle de los casos en /BANK_TECHNICAL_TEST/src/test/java/com/sotobotero/bank/BankBusinessRuleTests.java
-
-## Más informacion
-
-Echo por Carlos Adrian Soto Botero.
-http://localhost:8080/amil@gmail.com
-
